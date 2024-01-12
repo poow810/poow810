@@ -3,7 +3,7 @@
 
 ### 📝Dev’s Blog
 ---
-[poow810](https://poow810.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=poow810&theme=default)](https://poow810.tistory.com/)
 
 
 ---
